@@ -1,7 +1,7 @@
 Project Onus
 ========
 
-Centralised composer dependency management for WordPress projects.
+Centralised Composer dependency management for WordPress projects.
 
 This allows you to have one `vendor` directory for your entire project. No more clashing libraries between different plugins
 that use Composer internally.
