@@ -6,7 +6,7 @@ Description: One composer dependency for your entire site
 Version: 1.0
 Author: khromov
 Author URI: http://profiles.wordpress.org/khromov/
-GitHub Plugin URI: khromov/wp-one
+GitHub Plugin URI: khromov/wp-onus
 License: GPL2
 */
 
