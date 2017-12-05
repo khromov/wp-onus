@@ -1,5 +1,5 @@
 {
-  "name": "khromov/wp-one",
+  "name": "khromov/wp-onus",
   "require": {
     "composer/composer": "1.5.*"
   }
