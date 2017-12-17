@@ -117,6 +117,7 @@ class WP_Onus {
         $deps_fixed[$package] = $versions[0];
       }
 
+      // Use: https://github.com/composer/semver
       //FIXME: Here we need to check whether two directives are compatible and come up with a working directive, for example:
       // ^3.5 && 3.6.2 = 3.6.2
       // ^4.2 && 3.8.* = error

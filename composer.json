@@ -1,6 +1,7 @@
 {
   "name": "khromov/wp-onus",
   "require": {
-    "composer/composer": "1.5.*"
+    "composer/composer": "1.5.*",
+    "composer/semver": "*"
   }
 }
